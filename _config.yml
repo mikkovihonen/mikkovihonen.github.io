@@ -1,0 +1,26 @@
+title: MIKKO VIHONEN
+description: A blog about digitalisation and large scale software projects 
+
+url: http://mikkovihonen.github.com/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+
+social:
+   github: mikkovihonen
+   twitter: mikkovihonen
+   facebook: mikkovihonen
+   email: mikko.vihonen@gmail.com
+
+google_analytics: ""
