@@ -35,9 +35,10 @@ On the Team level day-to-day work on a SAFe-enabled organization should not be t
 
 ##Finding out the Current State
 
-One of the nice things in the toolbox of the SAFe agilist is a Team Agility Assessment Chart which helps teams to quickly do a self-assessment and create a profile of their working practices. The chart I’m presenting here is the vanilla assessment chart from SAFe which in my opinion is a good way to start. There are a couple of pitfalls when it comes to self-assessment, though. First of all, you need to make it clear that no bonuses or other incentives are tied to this assessment. The reasons should be obvious, but it’s something that’s good to keep in mind.
+One of the nice things in the toolbox of the SAFe agilist is a Team Agility Assessment Chart which helps teams to quickly do a self-assessment and create a profile of their working practices. The chart I’m presenting here is pretty much the vanilla assessment chart from SAFe which in my opinion is a good way to start. There are a couple of pitfalls when it comes to self-assessment, though. First of all, you need to make it clear that no bonuses or other incentives are tied to this assessment. The reasons should be obvious, but it’s something that’s good to keep in mind.
 
-Secondly, people have different standards based on their experience and other factors. Just keep in mind that in the less quantifiable assessment parts it’s important to understand where the team is coming from. World Class teams could be comparing their way of working to the very best in the industry while less experienced teams might be happy with less efficient ways of working. Clearly measurable goals and examples of them help here. It’s also a good idea to ask the teams to elaborate how they reached a specific grade in the assessment to support the resulting team profile.
+Secondly, people have different standards based on their experience and other factors. Just keep in mind that in the less quantifiable assessment parts it’s important to understand where the team is coming from. World Class teams could be comparing their way of working to the very best in the industry while other teams might not yet have seen more efficient ways of working. Clearly measurable goals and examples of them help here. It’s also a good idea to ask the teams to elaborate how they reached a specific grade in the assessment to support the resulting team profile.
+
 Below is an example of how a Team Agility Radar might look like:
 
 <figure>
