@@ -3,24 +3,22 @@ layout: post
 title:  "Scaling Agility: Preparing the Agile Foundation"
 date:   2016-02-01
 category: SAFe
-description: This post is the first in series to handle Agile Software Development methodologies in large scale. We keep our focus on the Team and help make sure we have all the necessary practices in place so we can scale up
+description: How to prepare for cases where there are several teams or teams depending on other teams to produce a layer of architecture which enables their work? SAFe offers a good model, but to scale up you need to make sure you are scaling up something that's working for you. This post in the series presents a way for your teams to evaluate their agile processes.
 ---
 
-##Primer a.k.a. “this we are already doing”
+##Agile Software development 101
 
 Agile software development methodologies have long time ago become mainstream in the industry. The drive to digitalize business has companies both small and large keeping their digital inventories small, reducing time to market and most importantly focusing on doing the things which create most value first.
 
-As most of us already know, the basic principle of agile is to have an empowered fixed team, preferably cross-disciplined, working on a prioritized backlog of business items for a fixed period of time. Within the given timebox the team will complete always the most important things iteratively using a PDCA cycle such as Scrum to constantly improve its working practices.
+In agile software projects we have an empowered fixed team, preferably cross-disciplined, working on a prioritized backlog of business items for a fixed period of time. Within the given timebox the team will complete always the most important things iteratively using a PDCA cycle such as Scrum to constantly improve its working practices.
 
 The team will have a Product Owner who is able to distill the backlog items from all the related stakeholders and pass them to the team. In addition, the team will have a Scrum Master or Agile Coach whose job it is to monitor their way of working and to remove impediments.
 
-The above process coupled with a commonly understood Definition of Done should produce software that solves the most important business problem with constant quality while keeping the schedule. Most of us have also experienced that it works in practice in the projects with typical 5 to 9 people team. Nothing new there.
+The above process coupled with a commonly understood Definition of Done should produce software that solves the most important business problem with constant quality while keeping the schedule. Most of us have also experienced that it works in practice in the projects with typical 5 to 9 people team. In other words, keeping things in scale of a project.
 
-But what about those cases where there are several teams working towards the same goal? Those cases where teams depend on other teams to produce a layer of architecture which they can build upon? Those cases where it may be impossible for teams to do architecturally vertical slices of functionality to complete a backlog item? For those cases we might need an additional layer to make sure all efforts are aligned and that there are no obstacles on the critical path.
+##SAFe - Agile Principles in Large Scale
 
-##Applying Agile Principles in Large Scale
-
-The issues I mentioned earlier are usually found in the problem domain of larger companies. Conveniently, those are also the issues which Scaled Agile Framework tries to solve. So, maybe at this stage it would make sense to present the big picture of Scaled Agile and try to make some sense of it. Here is a picture how Scaled Agile Inc. likes to present its solution:
+The issues I mentioned in the intro are usually found in the problem domain of larger companies. Conveniently, those are also the issues which Scaled Agile Framework tries to solve. So, maybe at this stage it would make sense to present the big picture of Scaled Agile and try to make some sense of it. Here is a picture how Scaled Agile Inc. likes to present its solution:
 
 <figure>
 	<img src="{{ '/assets/posts/2016-02-01-preparing-the-agile-foundation/SAFe40_4levels.png' | prepend: site.baseurl }}" alt=""> 
