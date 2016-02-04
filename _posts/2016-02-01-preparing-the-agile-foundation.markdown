@@ -3,7 +3,7 @@ layout: post
 title:  "Scaling Agility: Preparing the Agile Foundation"
 date:   2016-02-01
 category: SAFe
-description: How to prepare for cases where there are several teams or teams depending on other teams to produce a layer of architecture which enables their work? SAFe offers a good general model, but when scaling up you need to make sure you are scaling up something that already works. This post in the series presents a way for your teams to evaluate their agile processes.
+description: How to prepare for cases where there are several teams or teams depending on other teams to produce a layer of architecture which enables their work? SAFe is a powerful model, but when scaling up you need to make sure you are scaling up on a working foundation. This post presents a way for your teams to evaluate their agile profile.
 ---
 
 ##Agile Software development 101
