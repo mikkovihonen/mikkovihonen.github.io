@@ -48,6 +48,6 @@ This Team Agility Radar is showing a profile that is perhaps common for Teams th
 
 For your convenience I’ll provide you with an Excel template that will generate the above graph. If this subject interests you I’d recommend to read Dean Leffingwell’s Scaling Software Agility: Best Practices for Large Enterprises. If you liked this post, you’ll find especially chapters 21 and 22 useful.
 
-<a href="{{ '/assets/posts/2016-02-01-preparing-the-agile-foundation/TeamAgilityAssessmentChart.xslx' | prepend: site.baseurl }}">Download Team Agility Assesment Excel</a> 
+<a href="{{ '/assets/posts/2016-02-01-preparing-the-agile-foundation/TeamAgilityAssessmentChart.xlsx' | prepend: site.baseurl }}">Download Team Agility Assesment Excel</a> 
 
 Until the next time!
